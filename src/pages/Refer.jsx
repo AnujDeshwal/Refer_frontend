@@ -16,7 +16,7 @@ const Refer = () => {
           <div className="flex justify-center px-8 sm:px-0 items-center lg:block">
             <img
               style={{ objectFit: "cover" }}
-              className="h-[11rem] sm:h-[13rem] lg:h-[17rem] mb-20"
+              className="h-[8rem] sm:h-[13rem] lg:h-[17rem] mb-20"
               src={box}
               alt="box"
             />{" "}
